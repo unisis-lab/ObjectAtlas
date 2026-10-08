@@ -1,0 +1,6 @@
+requests>=2.32,<3
+numpy>=1.26,<3
+faiss-cpu>=1.9,<2
+sentence-transformers==6.1.0
+transformers==5.18.0
+huggingface-hub>=1.33,<2
